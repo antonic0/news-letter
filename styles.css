@@ -12,6 +12,7 @@ body {
     background: content-box;
     border: 3px solid #121212;
     margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 input {
